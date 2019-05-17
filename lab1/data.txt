@@ -1,0 +1,5 @@
+2,8,Lenovo
+2,4,Asus
+1,6,ASER
+3,16,hp
+1,2,Xiaomi
